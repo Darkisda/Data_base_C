@@ -1,0 +1,1 @@
+CREATE TABLE (id int NOT NULL PRIMARY KEY, dominio varchar(50), tema varchar(100), dificuldade int, texto varchar(255), resposta varchar(255));
